@@ -2,7 +2,7 @@
 
 ### About Me
 
-> Computer Science graduate seeking to join an innovative and dynamic organization to explore and deploy my ability effectively for the company’s productivity.I completed my degree from St.Thomas Institute for Science and Technology. Currently i am an intern at Mashupstack as Python Full-Stack Developer.I gained proficiency in HTML, CSS, Javascript, Bootstrap, MySQL, Python through my coursework and through my personal project.
+> Computer Science graduate seeking to join an innovative and dynamic organization to explore and deploy my ability effectively for the company’s productivity. I completed my degree from St.Thomas Institute for Science and Technology. I gained proficiency in HTML, CSS, Javascript, Bootstrap, MySQL, Python, Django through my coursework and through my personal project. Currently i am an intern at Mashupstack as Python Full-Stack Developer.
 
 >Checkout my LinkedIn profile : www.linkedin.com/in/peterkbaby
 
@@ -34,6 +34,7 @@
 
 **Additional Certifications:**
 - Django | Udemy
+- Python for Data Science,AI & Development | Coursera
 
 ### Career Plan:
   ##### On short term:
@@ -49,12 +50,15 @@ Fluent in English and Malayalam.
 
 - Checkout my hackerrank profile : https://www.hackerrank.com/peterkbaby
 
-#### GitHub and LinkedIn:
+#### Mulearn Profile:
 
-[peterkbaby@mulearn.md](./profile/peterkbaby@mulearn.md)
+- [peterkbaby@mulearn.md](./profile/peterkbaby@mulearn.md)
+
+
+#### GitHub and LinkedIn:
   
-[LinkedIn profile](https://www.linkedin.com/in/peterkbaby/)
+LinkedIn:[peterkbaby](https://www.linkedin.com/in/peterkbaby/)
   
-[GitHub profile](https://github.com/peterkbaby)
+GitHub: [peterkbaby](https://github.com/peterkbaby)
 
 ---
