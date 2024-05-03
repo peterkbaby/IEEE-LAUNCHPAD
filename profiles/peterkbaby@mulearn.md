@@ -32,7 +32,7 @@
 - Tools & Technologies: Git, GitHub, Windows, Linux
 - Frontend Technologies: HTML, CSS, Bootstrap
 
-**Additional Certifications:**
+### **Additional Certifications:**
 - Django | Udemy
 - Python for Data Science,AI & Development | Coursera
 
