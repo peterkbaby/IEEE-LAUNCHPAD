@@ -37,9 +37,9 @@
 - Python for Data Science,AI & Development | Coursera
 
 ### Career Plan:
-  ##### On short term:
-  - I'm focused on securing a role as a Software Engineer in a reputable company, where I can hand-on experience, contribute to impactful projects and continue developing my skills. 
-  ##### On long term:
+On short term:
+  - I'm focused on securing a role as a Software Engineer in a reputable company, where I can hand-on experience, contribute to impactful projects and continue developing my skills.
+On long term:
   - I see myself as a senior developer leading a team.
 
 ## LANGUAGES
