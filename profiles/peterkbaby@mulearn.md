@@ -4,8 +4,8 @@
 
 > Computer Science graduate seeking to join an innovative and dynamic organization to explore and deploy my ability effectively for the company’s productivity. I completed my degree from St.Thomas Institute for Science and Technology. I gained proficiency in HTML, CSS, Javascript, Bootstrap, MySQL, Python, Django through my coursework and through my personal project. Currently i am an intern at Mashupstack as Python Full-Stack Developer.
 
->Checkout my LinkedIn profile : www.linkedin.com/in/peterkbaby
-
+>Checkout my LinkedIn profile : www.linkedin.com/in/peterkbaby <br>
+>Checkout my GitHub profile : www.github.com/peterkbaby
 
 ## Portfolio Highlights
 
@@ -15,9 +15,10 @@
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | Speed Automation System  | Designed and implemented an intelligent speed control system using deep learning techniques to enhance road safety.  |    |              |
 | Placement Management System  |  The project is aimed at developing an application for the placement department for the college where students can view and assess their opportunities. |      |              |
+| Personal Bookmarking site | A Django-based personal bookmarking site enables users to manage their bookmarks efficiently. Users can sign up, log in, and add up to 5 bookmarks. The site also provides features to search, edit, and delete bookmarks. |      | [Github Repo](https://github.com/peterkbaby/bookmarking_site) |
 
 #### Leadership and Influence:
- 
+  - Media and Outreach Head(YASYA 2023)
   - As group leader at NSS Unit.I led various initiatives and providing guidance to my group member. This involved not only hosting events but also ensuring smooth execution through effective leadership.
   - Volunteering and contributing for the past 3 years as a part of ISTE Students chapter STIST's committee where I shared various roles of leadership.
   - In our main project, I organized tasks into seperate modules, promoting fair and equal participation. This make a sense of ownership among team members, encouraging them to finish the project on time.
@@ -29,8 +30,9 @@
 - Programming Languages: Python, JavaScript
 - Frameworks: Django
 - Libraries: OpenCV
-- Tools & Technologies: Git, GitHub, Windows, Linux
-- Frontend Technologies: HTML, CSS, Bootstrap
+- Database: MySQL, Postgres
+- Tools & Technologies: Git, GitHub, Windows, Postman
+- Frontend Technologies: React Js, HTML, CSS, Bootstrap
 
 ### **Additional Certifications:**
 - Django | Udemy
