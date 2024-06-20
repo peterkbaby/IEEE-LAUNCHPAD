@@ -15,7 +15,7 @@
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | Speed Automation System  | Designed and implemented an intelligent speed control system using deep learning techniques to enhance road safety.  |    |              |
 | Placement Management System  |  The project is aimed at developing an application for the placement department for the college where students can view and assess their opportunities. |      |              |
-| Personal Bookmarking site | A Django-based personal bookmarking site enables users to manage their bookmarks efficiently. Users can sign up, log in, and add up to 5 bookmarks. The site also provides features to search, edit, and delete bookmarks. |      | [Github Repo](https://github.com/peterkbaby/bookmarking_site) |
+| Personal Bookmarking site | A Django-based personal bookmarking site enables users to manage their bookmarks efficiently. Users can sign up, log in, and add up to 5 bookmarks. The site also provides features to search, edit, and delete bookmarks. |      |[Github Repo](https://github.com/peterkbaby/bookmarking_site) |
 
 #### Leadership and Influence:
   - Media and Outreach Head(YASYA 2023)
