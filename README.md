@@ -19,10 +19,11 @@
 
 
 #### Leadership and Influence:
- 
+  - Media and Outreach Head(YASYA 2023)
   - As group leader at NSS Unit.I led various initiatives and providing guidance to my group member. This involved not only hosting events but also ensuring smooth execution through effective leadership.
   - Volunteering and contributing for the past 3 years as a part of ISTE Students chapter STIST's committee where I shared various roles of leadership.
   - In our main project, I organized tasks into seperate modules, promoting fair and equal participation. This make a sense of ownership among team members, encouraging them to finish the project on time.
+
 
 #### Networking:
 - Being a member of the ISTE Students Chapter and National Service Scheme demonstrates my commitment to engaging with communities and contributing to their growth and development.As a group leader in the National Service Scheme at the school level gave me experience to develop strong leadership skills, including decision-making, problem-solving, and conflict resolution.
@@ -31,8 +32,9 @@
 - Programming Languages: Python, JavaScript
 - Frameworks: Django
 - Libraries: OpenCV
-- Tools & Technologies: Git, GitHub, Windows, Linux
-- Frontend Technologies: HTML, CSS, Bootstrap
+- Database: MySQL, Postgres
+- Tools & Technologies: Git, GitHub, Windows, Postman
+- Frontend Technologies: React Js, HTML, CSS, Bootstrap
 
 ### **Additional Certifications:**
 - Django | Udemy
@@ -61,7 +63,10 @@ Fluent in English and Malayalam.
 #### GitHub and LinkedIn:
   
 LinkedIn:[peterkbaby](https://www.linkedin.com/in/peterkbaby/)
-  
+
+
 GitHub: [peterkbaby](https://github.com/peterkbaby)
+  
+
 
 ---
